@@ -51,6 +51,7 @@ local y = (1+3) * 2 -- 8
 print(y)
 
 
+print(10//2) -- 5.0
 print(10/2) -- 5
 print (2^2) -- 4
 print(5%2) -- 1
